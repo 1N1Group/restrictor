@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### ⚙️ Miscellaneous Tasks
 
 - *(workflows)* Updated checkout version from v2 to v4
+- *(workflow)* Updated git-cliff startup
 
 ## [0.0.1] - 2024-10-31
 
